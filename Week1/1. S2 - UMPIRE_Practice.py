@@ -2,6 +2,7 @@
 # Session 2 - UMPIRE Practice
 
 # Write a function that reverses a string.
+
 # Example:
 # Input: "hello"
 # Output: "olleh"
